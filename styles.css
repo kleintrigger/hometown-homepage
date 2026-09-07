@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-   
+    
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -39,10 +39,10 @@ body {
  .title {
     background-color: #457B9D;
     
-   
+     margin-bottom: 15px;
     margin: 0 auto;
-    margin-top: 60px;
-   padding: 15px 15px;
+    margin-top: 15px;
+   padding: 10px 10px;
    color: #F1FAEE;
     border-radius: 10px;
     text-shadow: 0 0 5px black;
@@ -53,6 +53,7 @@ body {
  .subtitle {
         background-color: #457B9D;
          padding: 10px 10px;
+           margin-top: 15px;
         width: 60%;
         color:#F1FAEE;
         border-radius: 10px;
