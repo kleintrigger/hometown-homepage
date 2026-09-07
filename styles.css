@@ -12,10 +12,11 @@ body {
    margin: 0 0 20px 0;
     text-align: center;
     background: #F1FAEE;
-    color: #1D3557;
+    color: #457B9D;
       font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-style: normal;
+  
   
     }
  
@@ -113,26 +114,31 @@ img {
 
 .zoo-act-title {
     font-size: 20px;
+    color:  #1D3557;
+
     
 }
 
 .church-act-title {
      font-size: 20px;
+      color: #1D3557;
 }
 
 .pancit-act-title {
       font-size: 20px;
+       color: #1D3557;
 }
 
 .act-summary {
     font-size: 20px;
+    text-shadow: 0 0 1px black;
 }
 
 
 .guide-container {
     display: flex;
     background-color: #A8DADC;
-  
+
     padding-top: 10px;
     width:  40%;
     
@@ -142,7 +148,7 @@ img {
 
 justify-content: space-between;
    margin: 0 auto;
-  border-bottom:10px solid  #457B9D;
+  border-bottom:10px solid #1D3557;
    border-radius: 20px;
 
 
@@ -152,5 +158,9 @@ justify-content: space-between;
     font-size: 20px;
     padding: 20px;
     text-align: center;
+   color: #457B9D;
+   
+  
+    
 }
 
